@@ -1,1 +1,1 @@
-# labs
+Completed lab tasks
