@@ -1,3 +1,4 @@
+print("Program to calculate the value of z=2*sin^2(3*pi-2*a)*cos^2(5*pi+2*a)")
 import math 
 a = float(input("Enter the value of a: "))
 #We transform the angle from radians to degrees
