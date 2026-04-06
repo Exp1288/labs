@@ -1,4 +1,5 @@
-a = input("Enter a four-digit number: ")
+a = int(input("Enter a four-digit number: "))
+a = str(a)
 b = list(a)
 b.reverse()
 if len(b) > 4 or len(b) < 4:
