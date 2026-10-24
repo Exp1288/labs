@@ -1,0 +1,14 @@
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\bin\Debug\net10.0\programms.exe
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\bin\Debug\net10.0\programms.deps.json
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\bin\Debug\net10.0\programms.runtimeconfig.json
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\bin\Debug\net10.0\programms.dll
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\bin\Debug\net10.0\programms.pdb
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\programms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\programms.AssemblyInfoInputs.cache
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\programms.AssemblyInfo.cs
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\programms.csproj.CoreCompileInputs.cache
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\programms.dll
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\refint\programms.dll
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\programms.pdb
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\programms.genruntimeconfig.cache
+C:\Users\madyk\Downloads\coding\C#\C#_projects\programms\obj\Debug\net10.0\ref\programms.dll
